@@ -2,6 +2,7 @@
 /**
  * printstr - Prints a string.
  * @c: String to print.
+ * Return: Length of string c.
  */
 int printstr(char *c)
 {
@@ -12,5 +13,5 @@ int printstr(char *c)
 		_putchar(c[i]);
 	}
 
-	return(i);
+	return (i);
 }
