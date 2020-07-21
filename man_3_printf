@@ -1,0 +1,15 @@
+.TH man 8 "21 July 2020" "1.0" "_printf man page"
+.SH NAME
+_printf
+.SH SYNOPSIS
+_printf([string to pring], [arguments to string)
+.SH DESCRIPTION
+_printf reads user input arguments and formats them according to their type, then prints them to standard output.
+.SH OPTIONS
+Any arguments passed to _printf will be printed as standard output. To format variable output. Use a % followed by s, c, i, or d for types string, character, integer, and double respectively
+.SH SEE ALSO
+printf
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Jacob Scott & Cort Robinson
