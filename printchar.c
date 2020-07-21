@@ -6,7 +6,5 @@
  */
 int printchar(char c)
 {
-	if (c == NULL)
-		return (0);
 	return (_putchar(c));
 }
