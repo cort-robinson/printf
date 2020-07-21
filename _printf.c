@@ -1,5 +1,4 @@
 #include "holberton.h"
-
 /**
  * _printf - Produces output according to a format.
  *
@@ -11,7 +10,6 @@
 
 int _printf(const char *format, ...)
 {
-
 	va_list print;
 	int i, count = 0;
 
