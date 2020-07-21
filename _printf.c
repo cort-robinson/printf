@@ -22,19 +22,19 @@ int _printf(const char *format, ...)
 			switch (format[i])
 			{
 			case 'c':
-				count += printchar(va_arg(print, char));
+				count += printchar((char) va_arg(print, int));
 				break;
 			case 'i':
 				count += printint(va_arg(print, int));
 				break;
 			case 'd':
-				count += printdec((float) va_arg(print, double));
+				count += printint(va_arg(print, int));
 				break;
 			case '%':
 				count += _putchar('%');
 				break;
 			case 's':
-				count += printstring(va_arg(print, char *));
+				count += printstr(va_arg(print, char *));
 				break;
 			default:
 				count += _putchar('%');
@@ -46,5 +46,5 @@ int _printf(const char *format, ...)
 			count += _putchar(format[i]);
 	}
 	va_end(print);
-	return(count)
+	return(count);
 }
