@@ -17,7 +17,7 @@
 
 ## About ##
 
-This project is an attempt to recreate the standard C builtin function printf(). It returns the number of characters printed and writes to stdout.
+This project is an attempt to recreate the standard C builtin function printf(). It returns the number of characters printed and writes to stdout. Developing the printf function from scratch was a fun and engaging experience that put our knowledge of C and our ability to learn and code on fly to the test.
 
 ## Features ##
 
