@@ -38,8 +38,8 @@ Jacob Scott
 
 
 Made with :heart: by:
-  * **Cort Robinson** - [GitHub](https://github.com/cort-robinson), [Twitter](https://twitter.com/cort_robinson), [LinkedIn](https://www.linkedin.com/in/cort-robinson-4201b41a9/)
-  * **Jacob Scott** - [GitHub](https://github.com/jhs1790)
+  * **Cort Robinson** - [GitHub](https://github.com/cort-robinson), [Twitter](https://twitter.com/cort_robinson), [LinkedIn](https://www.linkedin.com/in/cort-robinson-4201b41a9/), [Warforged5e](https://warforged5e.com)
+  * **Jacob Scott** - [GitHub](https://github.com/jhs1790), [Warforged5e](https://warforged5e.com)
 
 &#xa0;
 
