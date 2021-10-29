@@ -36,7 +36,9 @@ Jacob Scott
   World traveller and beard extraordinair, Jacob is excited to bring all of his experiences to the software development space and make a mark in the creative gaming industy. With a degree and military history his interests naturally focus on this area, but his love of storytelling and good worksmanship in the space attracts his interests in many diverse projects. 
 
 
-Made with :heart: by <a href="https://github.com/cort-robinson" target="_blank">Cort Robinson</a> and <a href="https://github.com/jhs1790" target="_blank">Jacob Scott</a>
+Made with :heart: by:
+  * **Cort Robinson** - [GitHub](https://github.com/cort-robinson), [Twitter](https://twitter.com/cort_robinson), [LinkedIn](https://www.linkedin.com/in/cort-robinson-4201b41a9/)
+  * **Jacob Scott** - [GitHub](https://github.com/jhs1790)
 
 &#xa0;
 
